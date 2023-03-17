@@ -1,5 +1,5 @@
 # ComputerGraphicProject
-3D Room implemented with C++ and OpenGL
+3D Room implemented with C++ and OpenGL (easy demo).
 
 ## Programming job description:
 
