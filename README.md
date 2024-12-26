@@ -20,3 +20,5 @@ Press key 5: when 1-3 lights are off, mice can be led out.
 Key 6: Turn the computer screen on/off.
 
 Press ESC to exit the program
+
+#### Remember to download the glut32.dll
